@@ -1,0 +1,2 @@
+[console_scripts]
+crawl4ai-download-models = crawl4ai.model_loader:main

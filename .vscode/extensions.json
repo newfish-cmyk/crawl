@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "pomdtr.excalidraw-editor",
+        "editorconfig.editorconfig",
+        "lokalise.i18n-ally",
+        "formulahendry.code-runner",
+        "ms-python.python",
+        "ms-python.debugpy"
+    ]
+}
