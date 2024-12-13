@@ -1,13 +1,12 @@
 from crawl4ai import AsyncWebCrawler
 from typing import List, Dict, Any
 import json
-from datetime import datetime
 from crawl4ai.extraction_strategy import JsonCssExtractionStrategy
 
 class TestCrawler:
     def __init__(self, verbose=True):
         self.verbose = verbose
-        self.url = "https://rsshub-llpyzcfm.sealoshzh.site/telegram/channel/xhqcankao"
+        self.url = "https://rsshub-ppzgvjqi.cloud.sealos.io/telegram/channel/xhqcankao"
 
     async def get_strategy(self):
         schema = {
